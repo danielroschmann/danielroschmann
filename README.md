@@ -2,20 +2,23 @@
 
 I am a 24 yeaer old newly graduated software developer from Denmark. I enjoy building things, breaking things, and finding out why they break.
 
-## What I'm working on
+### What I'm working on
 Currently learning Go and exploring how to integrate AI into my projects with local models and APIs like OpenAI. My current focus is a movie recommendation app built with Go and MongoDB.
 
-## Interests
+### Interests
 - Backend Development: clean APIs, solid architecture and systems that scale
 - Cybersecurity: Particularly offensive security and red teaming
 
-## Tech stack
+### Tech stack
 Languages: Go, PHP, TypeScript, Java, C#, Python
+
 Frameworks & tools: .NET, Laravel, Next.js, Alpine.js
+
 Databases: MySQL, MongoDB, Elasticsearch, MSSQL
+
 Other: Linux, Git, Docker
 
-## Get in touch
+### Get in touch
 Feel free to reach out for collaboration or tech talk :-)
 
 
