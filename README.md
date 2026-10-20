@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a 24 year old newly graduated software developer from Denmark. I enjoy building things, breaking things, and finding out why they break.
+I am a 25 year old newly graduated software developer from Denmark. I enjoy building things, breaking things, and finding out why they break.
 
 ### What I'm working on
 Currently learning Go and exploring how to integrate AI into my projects with local models and APIs like OpenAI. My current focus is a Job Monitoring Platform build in Go, including other open source technologies like Redis, PostgreSQL and RabbitMQ.
